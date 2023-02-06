@@ -1,0 +1,2 @@
+D:\Projects\Lynx Test\obj\Debug\Lynx.GazePointer.csproj.AssemblyReference.cache
+D:\Projects\Lynx Test\obj\Debug\Lynx.GazePointer.csproj.CoreCompileInputs.cache

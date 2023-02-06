@@ -1,0 +1,48 @@
+# Starting compiling Ultraleap.Tracking.Core.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-83730ad6581752c49bf7af71e5b57c2f
+# Starting compiling Ultraleap.Tracking.Hands.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-4fcb320343f6ca74da032d70727058d9
+# Starting compiling Ultraleap.Tracking.Core.Editor.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-7db626cc4c1065b45903b7edbfcd3350
+# Starting compiling Ultraleap.Tracking.InteractionEngine.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-fb266db47f610ee45a43d7948e090f3a
+# Starting compiling Ultraleap.Tracking.ImageDistort.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-ff74f8ed29c765c429f8d5ecad76530a
+# Starting compiling Ultraleap.Tracking.Controllers.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-ee2a85f77968d7243a693edfd756c502
+# Starting compiling Ultraleap.Tracking.Aggregation.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0c9b2278e1e982e40a7e802ce4ea8d92
+# Starting compiling Ultraleap.Tracking.OpenXR.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-b4367c7bd01081c4a81e6ff6a8054b0e
+# Starting compiling Ultraleap.Tracking.HandRays.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-6027920f4aad8ab41a855239b777454e
+# Starting compiling Ultraleap.Tracking.Hands.Editor.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-d5b763e6ee7bc4343a02b7315100622f
+# Starting compiling Ultraleap.Tracking.Aggregation.Editor.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0ebd9e2c9f649a24e9adc4497235b395
+# Starting compiling Ultraleap.Tracking.UIInput.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-cfed3d8cf50a6e54bbeb01eedbc51300
+# Starting compiling Ultraleap.Tracking.PhysicsHands.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-7f82b7ae793237c49847949f8cef6cd8
+# Starting compiling Ultraleap.Tracking.OpenXR.Editor.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-281ddbd6d175f6f4696875fc65014ffd
+# Starting compiling Ultraleap.Tracking.InteractionEngine.Editor.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-8598d4cb0147a7948bdb03c9fe0294d4
+# Starting compiling Ultraleap.Tracking.HandRays.Editor.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-49513f7929fedef479e4b60dbea072c9
+# Starting compiling Ultraleap.Tracking.XRIIntegration.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-8cb5351f262063d4b8fbfd7544a6b117
+# Starting compiling Ultraleap.Tracking.PhysicsHands.Editor.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a47a46c5da05f8945a9da9323510af90
+# Starting compiling Ultraleap.Tracking.UIInput.Editor.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-94ea6954d1572094cbe229c9382fad47
+# Starting compiling Lynx.Handtracking.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-17ebaf8c4df4cb849b8600879a6c7127
+# Starting compiling Leap.Unity.Preview.XRInteractionToolkit.Editor.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-85598cc49bfee944d8cc64ee443b365f
+# Starting compiling Lynx.Samples.Handtracking.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-f9cc19a957a1c6c41a24a2a5338f9120
+# Starting compiling Lynx.Handtracking.Editor.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0f8aaadbfacca0d4c8a603af57ccbcb7
+# Starting compiling Assembly-CSharp.dll
+D:\Unity\Installs\2020.3.20f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a595272e6be245648ae1943120434117

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 765cc7c988c34d94a88bc5cf85e6d8cd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: B612
+  fontNames:
+  - B612
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 40e67e2960c171d4ba5b0d8b63099a09, type: 3}
+  - {fileID: 12800000, guid: 6cc7031b726dd8747a0b4a8e20e587ca, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

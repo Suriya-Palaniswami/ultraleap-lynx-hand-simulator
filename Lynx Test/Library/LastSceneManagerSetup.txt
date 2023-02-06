@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Lynx/Samples/HandTracking/0. Base/Scenes/BaseHandtracking.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

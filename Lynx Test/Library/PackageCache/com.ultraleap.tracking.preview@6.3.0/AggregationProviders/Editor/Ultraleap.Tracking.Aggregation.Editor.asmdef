@@ -1,0 +1,20 @@
+{
+    "name": "Ultraleap.Tracking.Aggregation.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:db4e617c04f44c144bc19216a63dd19b",
+        "GUID:10857128242f0ed4996ead64a2dc4b7e",
+        "GUID:cec9848704c49724192ff47f9b3e9156"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

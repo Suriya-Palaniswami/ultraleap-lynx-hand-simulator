@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c4273f9cdff60f447aca2b7088de33b8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_obj: {instanceID: 0}
+  - m_prefabPoint: {fileID: 388244369008348042, guid: e2b4d37a3aa08f14fa8fab0a671f6b4d,
+      type: 3}
+  - m_prefabEndRay: {fileID: 8473226953316927345, guid: 5ddc13c6ae9d6234f97a88061e3f49d9,
+      type: 3}
+  - m_material: {fileID: 2100000, guid: 55bbd478758187349855f317e118ea8a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

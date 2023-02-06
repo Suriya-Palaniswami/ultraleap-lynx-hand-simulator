@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cc5478c867e1f2346aa965261fc80239
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_cameraSrc: {instanceID: 0}
+  - m_cursorPrefab: {fileID: 5184751209180879198, guid: 76b25fb78d910e64494364d699e11171,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
